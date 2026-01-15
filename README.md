@@ -1,4 +1,9 @@
 "# Dsl-image-processing-clojure-project-" 
+
+-------------------------------------------
+   Ruslan and Rahul 
+------------------------------------------
+       
  ✅ DSL imported successfully - clean, declarative interface
    No implementation details exposed to user
 
